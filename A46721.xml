@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The third letter from W.J. to the Reverend Doctor Wallis, professor of geometry in Oxford upon the subject of two former letters to him, concerning the Sacred Trinity.</title>
+            <author>W. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46721</idno>
+            <idno type="STC">Wing J53</idno>
+            <idno type="STC">ESTC R39010</idno>
+            <idno type="EEBO-CITATION">18206146</idno>
+            <idno type="OCLC">ocm 18206146</idno>
+            <idno type="VID">107077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107077)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1125:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The third letter from W.J. to the Reverend Doctor Wallis, professor of geometry in Oxford upon the subject of two former letters to him, concerning the Sacred Trinity.</title>
+                  <author>W. J.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIII [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: W.J.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trinity --  Early works to 1800.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107077:1" rendition="simple:additions"/>
+            <p>THE THIRD LETTER From <hi>W. J.</hi> To the REVEREND Doctor Wallis, Profeſſor of Geometry in <hi>Oxford,</hi> Upon the Subject of two former LETTERS to him, concerning the Sacred TRINITY.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed in the Year MDCXCIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:107077:2"/>
+            <pb n="3" facs="tcp:107077:2"/>
+            <head>THE Third Letter.</head>
+            <head type="sub">To the Reverend Dr. <hi>WALLIS.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THIS is to take Leave of you, and to give you aſſurance (with my humble Service) that you ſhall receive no more Trouble from me in this kind; neither had I given you thus much, if I had not thought, as I ſtill do, that we aimed both at the ſame honeſt Deſign, namely, Moderation and Scripture-proof for all that we aſſert and impoſe in the Doctrine of the Trinity. But I am ſenſible, Sir, when we ſpeak of Scripture-proof, there is a ready and plauſible Anſwer to be made, which, with moſt Men, will make our Perſua<g ref="char:EOLhyphen"/>ſive to Moderation of no effect, and lead them to the ſame Exceſſes, though a little about, and in a Scholaſtick Way, which they were carried to before, in a ſhorter way, by external Authority.</p>
+            <p>The Anſwer which I mean is this; That Scripture-proof is not to be confin'd to the expreſs and plain Words of Scripture, but muſt reach as far as our Reaſon carries them, by ſuch Conſequences as have no Flaw or Incohe<g ref="char:EOLhyphen"/>rence,
+<pb n="4" facs="tcp:107077:3"/>according to the beſt of our Judgment. This I confeſs is generally true, but not univerſally; ſome Re<g ref="char:EOLhyphen"/>gard muſt be had to the Subject-matter whereof Scripture ſpeaks or treats: Accordingly I ſhould allow, that in Things Moral, Natural, Civil or Eccleſiaſtical, there is great room left for our Reaſon: But in Subjects of an infinite Nature, and plac'd above the reach of our Fa<g ref="char:EOLhyphen"/>culties, I think the Caſe is very different; and that it is not ſafe, in ſuch things, to depend upon our Deducti<g ref="char:EOLhyphen"/>ons and Conſequences, though they ſeem to us very clear.</p>
+            <p>And whether we have good Reaſon to aſſert this or no, I will leave to your Judgment, after I have propoſed to you ſeveral Inſtances of the Uncertainty and Fallibility of our Deductions, and of what ill Conſequence it would be in many Caſes, if we ſhould depend upon them. 'Tis the Opinion, you know, of many, that there are <hi>abſolute De<g ref="char:EOLhyphen"/>crees,</hi> antecedent and independent upon our Actions, or any Foreſight of them: But if we go to make Conſe<g ref="char:EOLhyphen"/>quences from this Doctrine, with reſpect to God's Good<g ref="char:EOLhyphen"/>neſs and Juſtice, and to our Liberty or Neceſſity, we are entangled in ſuch Difficulties as the Wit of Man can never extricate. But 'tis true, this Doctrine of <hi>Abſolute De<g ref="char:EOLhyphen"/>crees</hi> is not univerſal; let us rather inſtance in <hi>Divine Preſcience,</hi> which, according to our Reaſon, upon an im<g ref="char:EOLhyphen"/>partial Examination, turns to the ſame Account: For infallible Preſcience makes the Event as immutable, as an abſolute Decree; and an immutable Event is the ſame thing as a neceſſary Event. What things God foreſees, he foreſees either in his Decrees, or in their Cauſes; and either way the Event is fix'd and unchangeable. We ſay all things are preſent to God, (whether by his Decree, or by his Preſcience) though future to us: and what is pre<g ref="char:EOLhyphen"/>ſent,
+<pb n="5" facs="tcp:107077:3"/>is ſo far neceſſary, and cannot be otherwiſe than as it is preſent.</p>
+            <p>I will not ſay any thing of thoſe Inferences that are made by our Reaſon, from either of theſe Doctrines, in prejudice to the Divine Goodneſs and Juſtice: But that they deſtroy humane Liberty, ſeems evident to our Un<g ref="char:EOLhyphen"/>derſtanding: For, ſay we, if in every Caſe given, of two or more Iſſues poſſible or aſſignable, one only anſwers to the Divine Decree or Preſcience, and that Decree or Pre<g ref="char:EOLhyphen"/>ſcience cannot be fruſtrated, then that ſingle Iſſue that an<g ref="char:EOLhyphen"/>ſwers to it, muſt infallibly come to paſs, and no other: So that in every Caſe I am certainly limitted to one E<g ref="char:EOLhyphen"/>vent, though I am not ſenſible of that Limitation. I ſay, though I am not ſenſible, yet my Reaſon tells me, by clear Conſequences from Scripture-truths, that there is ſuch a Limitation in all my Actions, and that I cannot go con<g ref="char:EOLhyphen"/>trary to it. For Inſtance; If three Ways lie before me, ſuppoſe A. B. C. to walk in which I pleaſe; but an in<g ref="char:EOLhyphen"/>fallible Being foreſees and determines C. to be the Path I ſhall walk in, this puts a Limitation upon the Effect, and makes it as certain and determinate, as if it was under the Conduct of merely natural and neceſſary Cauſes.</p>
+            <p>Thus our Reaſon would betray our Liberty, and caſt us, without Mercy, upon the Rock of Fatality, by draw<g ref="char:EOLhyphen"/>ing its Conſequences and Concluſions from acknowledged Truths. And by the ſame Means and in the ſame Method, it would alſo deſtroy the Uſe of Prayer; for if we go to reaſon and argue upon Prayer, we ſhall find our ſelves at a loſs to conceive or explain, how it can have any Effect, or be of any uſe to us: For can we change the Purpoſes of God by our Prayers or Importunity? or hath he no Pur<g ref="char:EOLhyphen"/>poſes or Foreſight, previous to our Will or Actions?
+<pb n="6" facs="tcp:107077:4"/>You will not, I ſuppoſe, admit of either of theſe An<g ref="char:EOLhyphen"/>ſwers, but rather ſay, that when God determines the End, he alſo determines the the Means, whereof Prayer is one. Be it ſo; but however not knowing, as to parti<g ref="char:EOLhyphen"/>cular Caſes, when the End and the Means are deter<g ref="char:EOLhyphen"/>mined, when not; we cannot tell when our Prayers will be pertinent, when impertinent. Beſides, we think it a fooliſh Part to deliberate about a thing that is paſt, or to pray a Man not to do that which we know he hath already done. Now an Event that is immutably fix'd and irrevocably, (whether by Decree or Preſcience) is tantamount to a thing already come to paſs; I mean tantamount in this reſpect, that the one as well as the other, cannot admit of any Change or Alteration. All our Prayers then, ſays Reaſon, are as much in vain, as if we prayed that things ſhould not come to paſs that are already come to paſs. Our Prayers indeed may have ſome Effect upon our ſelves, but how they ſhould either affect God, or the Nature of things, ſo as to work a Change in either, is unconceivable.</p>
+            <p>Theſe Difficulties Reaſon ſuggeſts concerning the man<g ref="char:EOLhyphen"/>ner how our Prayers do or can take Effect, and grounds its Suggeſtions upon true Principles; the Unchangeable<g ref="char:EOLhyphen"/>neſs of God and of his Counſels. Yet we do not think it reaſonable upon ſuch Arguments, how clear ſoever they may ſeem to be, to neglect our Duty of Prayer, but im<g ref="char:EOLhyphen"/>pute theſe Defects or Miſconceptions to the Weakneſs of our Underſtandings, that cannot comprehend the manner of the Divine Thoughts and Actions: Why ſhould we then think it more ſafe to depend upon Conſequences made by our own Underſtandings in the Doctrine of the Trinity, which is, I believe, the greateſt Myſtery that ever was revealed to Mankind. <hi>Deum unum eſſe aliquo mo<g ref="char:EOLhyphen"/>do
+<pb n="7" facs="tcp:107077:4"/>Triunum,</hi> muſt be allowed by all Chriſtians; but if you will determine, by your own Wit, what this <hi>Modus</hi> is, farther than Scripture hath determined it, you do it without Authority, and venture upon Uncertainties. And if you impoſe theſe Determinations upon others, as Divine Truths, or as Articles of Divine Authority; and that alſo upon Penalties, temporal or eternal: neither Chriſtian Religion, nor humane Wiſdom, ſo far as I can judg, will juſtify ſuch Proceedings.</p>
+            <p>Theſe Conſiderations we have taken from the Doctrine of Decrees and Preſcience, which, according to the De<g ref="char:EOLhyphen"/>ductions of our Reaſon, deſtroy our Liberty of Will, and Uſe of Prayer: And ſeeing we muſt allow our Ratioci<g ref="char:EOLhyphen"/>nations to be falſe or defective in theſe Points, methinks it ſhould make us tender and fearful how we truſt to them in other Points of an infinite Nature; and that we ſhould not dare to add or ſuperſtruct, upon ſuch Divine Myſte<g ref="char:EOLhyphen"/>ries, a Set of humane Thoughts and Conſequences, much leſs to give them the ſame Authority with the primary Re<g ref="char:EOLhyphen"/>velation.</p>
+            <p>Neither is it only in Divine Truths that we find our Conſequences uncertain and fallacious, but alſo in Natu<g ref="char:EOLhyphen"/>ral Truths, that lie more within the Compaſs of our Un<g ref="char:EOLhyphen"/>derſtanding; and even in that Order and Kind of natu<g ref="char:EOLhyphen"/>ral Truths, that are thought, of all others, to be moſt evident and demonſtrable, I mean in Geometry and Me<g ref="char:EOLhyphen"/>chanicks. How many have found the <hi>Perpetual Motion,</hi> and the <hi>Quadrature of the Circle,</hi> if their Conſequences be true; for they generally begin from true Principles, and purſue them with all the Care and Exactneſs they are able, and conclude with a great Aſſurance that they have committed no Error, that all their Deductions are clear and diſtinct, and conſequently their Concluſion is
+<pb n="8" facs="tcp:107077:5"/>as infallible as humane Wit can make it: Yet the World is ſatisfied, that neither the Circle is ſquared, nor the Per<g ref="char:EOLhyphen"/>petual Motion found out; and conſequently that hu<g ref="char:EOLhyphen"/>mane Ratiocinations, though from true Principles, are very ſubject to Error. In like manner, in that noted Problem about the <hi>Diviſibility of a Body,</hi> we are aſſured that our Faculties deceive us, when they preſent us un<g ref="char:EOLhyphen"/>anſwerable Demonſtrations on either ſide. And if Re<g ref="char:EOLhyphen"/>velation had declared whether Part was true, we ſhould notwithſtanding draw the ſame Abſurdities from either ſide of the Concluſion.</p>
+            <p>Theſe are plain and known Inſtances of the Uncer<g ref="char:EOLhyphen"/>tainty of our Faculties in things difficult and abſtruſe, whether Divine or Natural, and may ſhew us the Dan<g ref="char:EOLhyphen"/>ger of ſtretching Myſteries (upon their Authority) fur<g ref="char:EOLhyphen"/>ther than they are revealed; and impoſing upon others our own Productions and Subtilties for the Word of God. It may be very proper alſo to conſider in what manner God Almighty is pleaſed to treat us, that we may learn how to treat one another, in Matters of Spe<g ref="char:EOLhyphen"/>culation, and ſuch things as concern the Divine Nature, I mean to conſider the general Stile of Scripture, and that Condeſcenſion it uſes when it ſpeaks to us concerning God and Things Divine, which is commonly in a Stile that ſutes rather to our Apprehenſions than to the abſo<g ref="char:EOLhyphen"/>lute Nature of the things themſelves. Scripture ſpeaks of God as of a Being that hath Paſſions like a Man, and with Members and Motions, as if he had a Body ſuch as ours. We cannot underſtand the true manner, how God (an immutable Being) is ſometimes pleaſed, ſome<g ref="char:EOLhyphen"/>times diſpleaſed; and therefore, in condeſcenſion to our Weakneſs, he is repreſented with Paſſions and contrary Affections, as Men have. We cannot underſtand the
+<pb n="9" facs="tcp:107077:5"/>true way of the Divine Activity, or how God acts upon things without him; and therefore he is repreſented to us with Hands, and Inſtruments in his Hands, and Mo<g ref="char:EOLhyphen"/>tion from Place to Place. In like manner, God is repre<g ref="char:EOLhyphen"/>ſented to us with Organs of Seeing and Hearing, becauſe we cannot apprehend the true way of God's knowing and perceiving things without him. But this is all in condeſcenſion to our Infirmities, that theſe practical No<g ref="char:EOLhyphen"/>tions of God might be ſuted to our Capacity, and ſo have a greater Influence upon us.</p>
+            <p>Thus God deals with us; but we ſeem to deal with one another in a quite different way. We ſeem to af<g ref="char:EOLhyphen"/>fect Difficulties, and to take Pleaſure in ſetting Man's Underſtanding upon the rack, and making it confeſs more than it knows. We refine upon the Myſteries re<g ref="char:EOLhyphen"/>vealed to us in Scripture; and what is ſummarily and generally expreſſed there, we beat out into a Multitude of Particularities, and then ſtamp them into Articles of Faith. God ſeems to make things accommodate to our Underſtanding, as much as may be, that ſo they may make ſome Impreſſion upon us: We, on the contrary, make them unaccommodate and inconceivable, and ſo they make no Impreſſion upon us. And I'm afraid moſt Men, when they repeat certain Paſſages of the Atha<g ref="char:EOLhyphen"/>naſian Creed, feel no more Senſe under the Words they pronounce, than a Child does when it repeats things got by rote, and apprehends only the Sound, or now and then a Word, without Connection of Senſe. The Ho<g ref="char:EOLhyphen"/>ly Ghoſt, in Scripture, ſeems to conſider Practice and Uſefulneſs more than Notion and Speculation, and de<g ref="char:EOLhyphen"/>preſſes things below their true State, many times, to make them more ſutable to our Capacities. Whereas
+<pb n="10" facs="tcp:107077:6"/>we, in a contrary Method, ſtrain the greateſt Myſteries, without any Relation to Practice or Uſefulneſs, and force thoſe Doctrines higher than Scripture hath ſet them, by nice Inferences of our own making: And not content with this in our private Thoughts, (which are allowed to every Man) we make them Laws to others, and Rules of our Chriſtian Faith.</p>
+            <p>I might ask theſe Scholaſtick Heads, what Benefit is it to the People to be taught theſe Subtilties about the Tri<g ref="char:EOLhyphen"/>nity? of what Uſe or Edification? Does it make them more vertuous, more honeſt in their Callings, more dead to the World? Does it impreſs more of the Fear of God upon their Minds, or more of Charity to their Neigh<g ref="char:EOLhyphen"/>bours? What piece of Chriſtian Morality does it pro<g ref="char:EOLhyphen"/>mote? Opinions do not work like Charms, without any Connection betwixt the Cauſe and the Effect: and what is unperceived by the Underſtanding, hath no Ef<g ref="char:EOLhyphen"/>fect upon the Will. Neither is it conceivable that God ſhould make it a neceſſary Condition of our Happineſs, to believe a Myſtery or incomprehenſible thing, further than he hath plainly revealed it. We muſt be able to give a Reaſon of our Faith, and we muſt not reſolve our Faith into humane Authority.</p>
+            <p>But to add no more, in the laſt Place, I deſire thoſe Perſons that are ſo diſputacious about the Holy Trinity, to conſider the Greatneſs and Glory of thoſe Natures, about which they venture to argue and diſpute with ſo much Freedom. If it was a common Subject, any part of the natural World, or any created Being, we might make bold with our Fellow-Creatures, to canvaſs and examine all the Secrets of their Natures: But there is
+<pb n="11" facs="tcp:107077:6"/>greater Caution and Reverence to be uſed as to the Di<g ref="char:EOLhyphen"/>vine Nature: And eſpecially as to the Trinity, which is the very Secret of the Divine Nature, and therefore ſhould not be pry'd into further than it hath pleaſed God to reveal it. We ſhould rather ſilently admire and hum<g ref="char:EOLhyphen"/>bly ſubmit to that Myſtery, as it is delivered in the Words of Scripture, than add to it by our own Inventi<g ref="char:EOLhyphen"/>on. The Jews had ſo great a Reverence for the Name of God, I mean the <hi>Tetragrammaton,</hi> that they did not dare to pronounce it, nor take it into their Mouths, that being permitted only to the High Prieſt, and but once a Year, when he entred into the <hi>Sanctum Sanctorum:</hi> This Name, which to them was ſo ſacred, was thought to expreſs the abſolute ſimple Nature of God, as he is in himſelf, without Reſpect, or antecedently, to the whole Creation. This they juſtly accounted very holy and ſa<g ref="char:EOLhyphen"/>cred, and plac'd it, as it were, in an inacceſſible Light. Now the Notion of the Trinity does not only contain this, but exhibits alſo to us the great <hi>Arcanum</hi> of the Godhead, if I may ſo ſay: A moſt myſterious Triunity in the Divine Nature, which was never before revealed to Mankind, nor ever was, or will be comprehended by any Mortal. Ought we not then to place this in the <hi>Sanctum Sanctorum,</hi> in the <hi>Adytum</hi> of the Temple, and cover it with the Wings of Cherubims, as a Glory too great for our Eyes to bear? At leaſt we ought to be re<g ref="char:EOLhyphen"/>ſerv'd, modeſt and tender in this Point, more than in any other Part of Theology, of adding or innovating any thing, beyond the plain Words and plain Senſe of Scripture.</p>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:107077:7"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THeſe Inſtances and Conſiderations I have propoſed, to perſwade us, as I ſaid at firſt, to Moderation and Scripture-proof, in all things that we aſſert and im<g ref="char:EOLhyphen"/>poſe in the Doctrine of the Trinity. But now it will be ask'd me, what is good Scripture-proof? ſeeing we do not allow (in this caſe) of Deductions and Conſe<g ref="char:EOLhyphen"/>quences: Or, to be ſhort, what Creed may we with Safety propoſe concerning the ever-bleſſed Trinity, ac<g ref="char:EOLhyphen"/>cording to the plain Words and plain Senſe of Scripture? 'Tis not for private Perſons to preſcribe or pretend to Au<g ref="char:EOLhyphen"/>thority, againſt eſtabliſh'd Orders. But if you will give me leave to put the Caſe in a new-found World, or in a Nation newly converted, and to be farther inſtructed in the Chriſtian Faith; to ſuch a People I would not propoſe the Athanaſian Creed, but ſomething more plain and ſimple, as alſo more ſcriptural, that ſhould be ma<g ref="char:EOLhyphen"/>nifeſtly grounded upon Divine Authority, in all the Parts of it. As ſuppoſe you ſhould take ſo much of the Apo<g ref="char:EOLhyphen"/>ſtles Creed, as relates to the Trinity and Incarnation, and add to it ſome Articles more explicite and diſtinct, to expreſs our Belief in ſome ſuch plain Form as this:</p>
+            <p>
+               <q>I believe in God, the Father Almighty, Maker of Heaven and Earth; and in Jeſus Chriſt his only Son our Lord, who was conceived by the Holy Ghoſt, and born of the Virgin <hi>Mary,</hi> was crucified by the Jews, roſe from the Dead, aſcended into Heaven, from whence he will come in Glory to judg the World. I believe the Holy Trinity, as it is revealed to us in Scripture: Accordingly I believe the Father, Son, and Holy Ghoſt, as my Creator, Redeemer, and Sancti<g ref="char:EOLhyphen"/>fier:
+<pb n="13" facs="tcp:107077:7"/>Three, after a myſterious and incomprehenſible manner, but one Eternal ever bleſſed Lord God; by whoſe Mercy, Power and Faithfulneſs, I hope for a Reſurrection from the Dead, and eternal Life.</q>
+            </p>
+            <p>Thus much, I think, is unqueſtionably ſcriptural; and I have left out the Word <hi>Perſon,</hi> not that I ſhould ſcru<g ref="char:EOLhyphen"/>ple it my ſelf in that large Senſe wherein we underſtand it, but becauſe I thought it would raiſe Scruples and Difficulties in the Minds of others, or of theſe new Con<g ref="char:EOLhyphen"/>verts whereof we are ſpeaking: They would be apt to reaſon with themſelves, Can three Perſons be one thing? Or can our God, who is one only God, be three diſtinct Perſons? Are not three diſtinct Perſons, each being in<g ref="char:EOLhyphen"/>finitely perfect, plainly three Gods? Theſe and ſuch like Doubts would naturally riſe in their Minds; and from theſe, as from Seeds, would grow up many more, which by degrees, would corrupt the Simplicity of their Reli<g ref="char:EOLhyphen"/>gion, and turn it into Opinions and Diſputes.</p>
+            <p>But this plain Scripture-form, as it would prevent Diſputes and Controverſies, ſo it would render all Diſ<g ref="char:EOLhyphen"/>ſenters from it, if there could be any, inexcuſable: I mean all Chriſtian Diſſenters; for as to Jews and Maho<g ref="char:EOLhyphen"/>metans, I do not ſuppoſe that it would ſatisfy them; yet I think it would very much leſſen that Offence which they take at the Chriſtian Trinity, as it is repreſented by Schoolmen and Polemical Divines; and as it is dreſs'd up in one of our Creeds, with all the Pomp and Affectation of Contrarieties and ſeeming Contradictions.</p>
+            <p>Neither, I think, is this Form defective, though ſhort and plain: For diſtinguiſhing Father, Son, and Holy
+<pb n="14" facs="tcp:107077:8"/>Ghoſt, as our Creator, Redeemer and Sanctifier, it there<g ref="char:EOLhyphen"/>by diſplays and caſts a Light upon the whole Chriſtian Oeconomy, and is a Support to our Faith and Prayer: Whereas thoſe Metaphyſical Subtilties that are ſuper<g ref="char:EOLhyphen"/>added to this Scripture-Creed, have no Influence, that I know, either upon a good Life, or any Chriſtian Duty. In Religion all Superfluities are noxious; and what does not good, does hurt there, amuſes the Mind to no pur<g ref="char:EOLhyphen"/>poſe, and turns off our Thoughts from their principal Ob<g ref="char:EOLhyphen"/>jects and Concerns, whether in matter of Belief, or in matter of Practice.</p>
+            <p>But why do I continue ſo long in this Digreſſion; I did not intend at firſt to propoſe or mention any thing, but ſuch Arguments as might incline us to Moderation in the Doctrine of the Trinity, and proportionably in all other myſtical Doctrines; and in general, not to lay much Streſs upon Opinions, in compariſon of a good Life, and the truly Chriſtian Diſpoſitions of Mind. Thoſe who leaſt uſe their Underſtandings, can the eaſieſt comply with any Opinions their Superiours impoſe upon them; but thoſe who uſe Reflection and Meditation, find it im<g ref="char:EOLhyphen"/>poſſible to believe what they liſt, or what is dictated to them by humane Authority, without Reaſons to con<g ref="char:EOLhyphen"/>vince them. Now this Uſe of our Underſtanding, which is the <hi>Candle of the Lord,</hi> cannot be Matter of Demerit and Condemnation to us, provided it be ſincere, and accompanied with Piety and Probity; and therefore this ought not to be made a Snare, or of penal Conſequence to thoſe that in all other Reſpects are good Chriſtians. Who can look upon the State of Chriſtendom without Grief and Trouble, when he obſerves, which is too obvious, that a certain Zeal for Opinions and Ceremonies hath
+<pb n="15" facs="tcp:107077:8"/>eat out the Heart of our Religion, I mean the vital and practical Part of it, a good Life, and a good temper of Mind? whereas it is this only that will ſtick to us after Death, and conduct us to Heaven and Bliſs; when all our Opinions and external Righteouſneſs will fall off, like rotten Rags. To conclude, let us be content to prove well from Scripture the Divinity of our Saviour, and of the Holy Ghoſt; and to leave the Modalities of thoſe Doctrines to another State and Diſpenſation.</p>
+            <p>Neither can this Advice ſeem unreaſonable, if we conſider what Differences there are about the Explication of the Trinity, and how difficult it is to make any one Explication unexceptionable. All Parties agree in this ſolemn Maxim, That there <hi>is but one God.</hi> And not on<g ref="char:EOLhyphen"/>ly Chriſtians of all ſorts, but alſo Jews and Mahometans join with us in this, as the common Barriere betwixt us and Paganiſm or Polytheiſm. Now this being a Concluſion agreed on and conſented to, by all Parties concerned in the Controverſy: If we ſay, this <hi>one God is three,</hi> then we are bound, ſay the Antitrinitarians, to prove it, and to make it intelligible: For he that af<g ref="char:EOLhyphen"/>firms more than others will grant, muſt firſt make his Propoſition intelligible, and then bring Reaſons to prove the Truth of it. The Orthodox ſay, This one God is three: Three what? ſay the other: Three Gods? No. Three Creatures? No. Three Subſtances? No. Three Ac<g ref="char:EOLhyphen"/>cidents? neither: Three Names only? more than that: Three Attributes or Powers? more than that alſo. What manner, or what ſort of <hi>Three</hi> are they then? Three Perſons, ſay you: but this gives no Satisfaction; for the Queſtion returns ſtill, Whether are theſe three Perſons three Gods, or three Creatures? three Sub<g ref="char:EOLhyphen"/>ſtances
+<pb n="16" facs="tcp:107077:9"/>or Accidents, <hi>&amp;c.</hi> For a Perſon is a compleat particular Being, and muſt fall under ſome more ſimple and general Order of Beings or Notions, ſuch as we have mentioned: To which of thoſe Heads therefore do thoſe three Perſons belong?</p>
+            <p>'Tis not eaſy, you ſee, to make one Step forwards, when we once recede from the Unity of the Godhead. Yet I think we may, without fully deciding this Point, advance a little farther by common Conſent. All Par<g ref="char:EOLhyphen"/>ties will acknowledg that there is in the Godhead,
+<list>
+                  <item>
+                     <hi>Firſt,</hi> Infinite Power and Being.</item>
+                  <item>
+                     <hi>Secondly,</hi> Infinite Wiſdom and Knowledg.</item>
+                  <item>
+                     <hi>Thirdly,</hi> Infinite Love and Bounty.</item>
+               </list>
+            </p>
+            <p>And theſe three things are the Ground and Materi<g ref="char:EOLhyphen"/>als, if I may ſo ſay, of what in one Word we call the Trinity. The Son we ſay, is the Eſſential Wiſdom of the Father; and the Holy Ghoſt Eſſential Love. But the Queſtion is concerning the Name that is to be given to theſe three things, and about the Mode of their Uni<g ref="char:EOLhyphen"/>ty and Diverſity. As to the Name, ſome will have them call'd three Subſtances; others three Perſons; and others three Properties. And herein conſiſt the three great Differences concerning the Doctrine of the Tri<g ref="char:EOLhyphen"/>nity. The Platoniſts ſay, They are three Subſtances: The Orthodox make them three Perſons: The Unita<g ref="char:EOLhyphen"/>rians three Properties only. But, methinks, however, it ſhould not be matter of Salvation and Damnation, to hit right or be miſtaken in the Name or preciſe Notion of theſe three things, whatſoever it is: For every inge<g ref="char:EOLhyphen"/>nuous
+<pb n="17" facs="tcp:107077:9"/>and unbiaſs'd Perſon muſt acknowledg, that there are great Difficulties in every one of the three Ways mentioned. That Hypotheſis which hath been propoſed to us of late, for the Explication of the Trinity, ſutes beſt with the Platonical Triad: for the Platoniſts ſuppoſe their three Divine Subſtances to be in ſuch a relation to one another, of Influence and Dependance, of mutual Activity and Sympathy, that they ſtill retain a Character of Unity, and may be call'd one God, or one Godhead. This, I ſay, ſeems to be very well illuſtrated by the late Hypotheſis, which firſt allows three Divine Subſtances, three infinite Minds, three holy Spirits, and then unites them by <hi>mutual Conſciouſneſs,</hi> which is the greateſt Cha<g ref="char:EOLhyphen"/>racter of Union that we know. Yet, notwithſtanding this Union, it preſerves a Diſtinction by a particular <hi>Self-Conſciouſneſs</hi> in every one of the three Spirits. So that you ſee at once, by this Repreſentation, the Ground of their being <hi>One,</hi> and of their being <hi>Three.</hi>
+            </p>
+            <p>Upon the whole Matter, I am of Opinion, but with all Submiſſion to better Judgments, that the Doctrine of the Trinity cannot be made out in a rational way, ac<g ref="char:EOLhyphen"/>cording to the preſent Light of our Faculties. I do not doubt but it is the higheſt Reaſon to thoſe Beings that are capable of it; but to us, in this preſent State, 'tis Matter of Faith, and we take it upon the Authority of a Revelation, and muſt acquieſce in that, without Addi<g ref="char:EOLhyphen"/>tions of our own, if we would be ſecure from Error and Miſtake: And when I ſay, this Doctrine does not fall under our Comprehenſion, in this preſent State, I mean chiefly as to theſe three Degrees or Parts of it.</p>
+            <p n="1">
+               <pb n="18" facs="tcp:107077:10"/> 1. To reconcile the Diſtinction of the Perſons to the Unity of the Godhead, according to all the Characters given of that Unity and Simplicity that is in God, and of that Multiplicity and Diſtinction that is given to the Perſons.</p>
+            <p n="2">2. To conceive the Equality of the three Perſons, notwithſtanding their Derivation from one another.</p>
+            <p n="3">3. To give a Reaſon why there are three Perſons and no more; or why thoſe Divine Emanations or Producti<g ref="char:EOLhyphen"/>ons, or whatſoever they are to be call'd, are limited to three.</p>
+            <p>I have in a former Letter ſpoken ſomething to the two firſt Particulars; and as to the laſt, I will only make one ſhort Remark upon a Principle laid down by this learned Author: He ſays, (<hi>p.</hi> 103. §. 2, 3, 4, 5.) That the Thought of the Father, or reflex Knowledg of him<g ref="char:EOLhyphen"/>ſelf, begets the Son, or is the Son: Now the Holy Ghoſt is alſo a thinking Being, and hath a reflex Know<g ref="char:EOLhyphen"/>ledg of himſelf; and if he be equal to the Father, his Thought or his reflex Knowledg of himſelf, is of equal Perfection, and equally ſubſtantial with the Father's, and conſequently muſt make a fourth Divine ſubſiſting Per<g ref="char:EOLhyphen"/>ſon; and that fourth, by the ſame Reaſon, a fifth, and ſo forwards, ſo long as they continue in Equality.</p>
+            <p>But I muſt break off abruptly, for I ſee this Letter is too long already. I do ſincerely and heartily believe the Doctrine of the Trinity, as to the Matter of it; and as to the Form and <hi>Modus</hi> of it, I think it is not
+<pb n="19" facs="tcp:107077:10"/>revealed to us in Scripture, nor attainable by the Light of Nature. So much as is revealed, and no more, is the Rule of Faith. Pardon this Trouble, Sir, from a Stranger, who will always remain,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Obliged Humble Servant, <hi>W. J.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
